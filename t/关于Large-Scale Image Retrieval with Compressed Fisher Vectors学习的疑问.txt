@@ -1,0 +1,28 @@
+
+
+3、2 results a high dimensional sparse histogram  representation？什么事稀疏表示？histogram又体现在哪里？
+
+
+4、compress BOV histogram是什么意思？ 什么是BOV histograms
+
+---------------------------------------------------------------------------------------------------------
+
+dataset；
+Holiday dataset [11] and the
+University of Kentucky benchmark [18],
+---------------------------------------------------------------------------------------------------------
+
+
+6、 FisherVector is dense and BOV  is sparse, why？how can see
+
+
+-------------------------FisherVector Framework--------------------------------------
+
+
+
+
+
+
+
+
+
